@@ -34,7 +34,7 @@ button {
 @media screen and (max-width:780px)
 {
 .VideoScreen {
-height: 500px;
+height: 100%;
   width: 100%; 
 }
   .btn{
