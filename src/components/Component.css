@@ -33,7 +33,12 @@ button {
 
 @media screena and (max-width:780px)
 {
-
+.VideoScreen {
 height: 500px;
   width: 780px;
+}
+  .btn{
+    width:780pc;
+  }
+  
 }
