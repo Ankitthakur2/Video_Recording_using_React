@@ -31,7 +31,7 @@ button {
   padding: 0.1rem 0.2rem;
 }
 
-@media screena and (max-width:780px)
+@media screen and (max-width:780px)
 {
 .VideoScreen {
 height: 500px;
